@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "image": "/gallery/tee1.webp",
+    "name": "Product 1",
+    "material": "Cotton",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 2,
+    "image": "/gallery/tee2.webp",
+    "name": "Product 2",
+    "material": "Polyester",
+    "price": 39.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 3,
+    "image": "/gallery/tee3.webp",
+    "name": "Product 3",
+    "material": "Spandex",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 4,
+    "image": "/gallery/tee4.webp",
+    "name": "Product 4",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 5,
+    "image": "/gallery/tee5.webp",
+    "name": "Product 5",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 6,
+    "image": "/gallery/tee6.webp",
+    "name": "Product 6",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 7,
+    "image": "/gallery/tee7.webp",
+    "name": "Product 7",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 8,
+    "image": "/gallery/tee8.webp",
+    "name": "Product 8",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "t-shirts"
+  },
+  {
+    "id": 9,
+    "image": "/gallery/hoodie1.webp",
+    "name": "Product 9",
+    "material": "Cotton",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 10,
+    "image": "/gallery/hoodie2.webp",
+    "name": "Product 10",
+    "material": "Polyester",
+    "price": 39.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 11,
+    "image": "/gallery/hoodie3.webp",
+    "name": "Product 11",
+    "material": "Spandex",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 12,
+    "image": "/gallery/hoodie4.webp",
+    "name": "Product 12",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 13,
+    "image": "/gallery/hoodie5.webp",
+    "name": "Product 13",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 14,
+    "image": "/gallery/hoodie6.webp",
+    "name": "Product 14",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 15,
+    "image": "/gallery/hoodie7.webp",
+    "name": "Product 15",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 16,
+    "image": "/gallery/hoodie8.webp",
+    "name": "Product 16",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "hoodies"
+  },
+  {
+    "id": 17,
+    "image": "/gallery/bottom1.webp",
+    "name": "Product 17",
+    "material": "Cotton",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 18,
+    "image": "/gallery/bottom2.webp",
+    "name": "Product 18",
+    "material": "Polyester",
+    "price": 39.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 19,
+    "image": "/gallery/bottom3.webp",
+    "name": "Product 19",
+    "material": "Spandex",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 20,
+    "image": "/gallery/bottom4.webp",
+    "name": "Product 20",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 21,
+    "image": "/gallery/bottom5.webp",
+    "name": "Product 21",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 22,
+    "image": "/gallery/bottom6.webp",
+    "name": "Product 22",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 23,
+    "image": "/gallery/bottom7.webp",
+    "name": "Product 23",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 24,
+    "image": "/gallery/bottom8.webp",
+    "name": "Product 24",
+    "material": "Cotton",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "bottoms"
+  },
+  {
+    "id": 25,
+    "image": "/gallery/bottom1.webp",
+    "name": "yellow tshirt",
+    "description": "hdfhajks",
+    "price": "60",
+    "category": "t_shirts",
+    "material": "Cotton"
+  }
+]
