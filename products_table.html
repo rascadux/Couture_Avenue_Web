@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Products Table</title>
+  <link href="https://fonts.cdnfonts.com/css/alice-smile" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.5.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div id="countdown" class="text-center"></div>
+    <div id="header-container"></div>
+    <main id="table-main">
+        <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Image</th>
+            <th scope="col">Name</th>
+            <th scope="col">Material</th>
+            <th scope="col">Price</th>
+            <th scope="col">Description</th>
+            <th scope="col">Category</th>
+            </tr>
+        </thead>
+        <tbody id="product-table-body">
+        </tbody>
+        </table>
+    </main>
+    <aside>
+        <div class="sidebar-container">
+        <div class="categories">
+            <h2>Categories</h2>
+            <ul>
+            <li><a href="t-shirts.html" onclick="showCategory('t_shirts')">T-shirts</a></li>
+            <li><a href="hoodies.html" onclick="showCategory('hoodies')">Hoodies</a></li>
+            <li><a href="bottoms.html" onclick="showCategory('bottoms')">Bottoms</a></li>
+            <li><a href="all.html" onclick="showCategory('all')">All</a></li>
+            </ul>
+        </div>
+        <div class="contact-info">
+            <h2>Contact</h2>
+            <p>Phone: 123-456-789</p>
+            <a href="mailto:info@coutureavenue.com">info@coutureavenue.com</a>
+            <p>Address: Meljska Cesta 44, Maribor</p>
+        </div>
+        </div>
+    </aside>
+    <div id="current-date-time" class="text-center my-3" style="display: none;"></div>
+    <footer class="footer">
+        <div class="container">
+        <span class="text-muted">&copy; 2023 Couture Avenue. All rights reserved</span>
+        </div>
+    </footer>
+  </div>
+
+  <script src="main.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
